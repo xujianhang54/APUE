@@ -1,0 +1,9 @@
+#! /home/xujianhang54/Programmer/APUE/My_Code/Chapter_08/awk -f
+
+BEGIN {
+
+	for (i = 0; i < ARGC; i ++)
+		printf "ARGV [%d] = %s\n", i, ARGV [i]
+	exit
+
+}

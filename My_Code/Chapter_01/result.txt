@@ -1,0 +1,5 @@
+[root@localhost Chapter_01]# cd /usr/include
+[root@localhost include]# time -p grep _POSIX_SOURCE */*.h > /dev/null
+real 0.80
+user 0.01
+sys 0.56

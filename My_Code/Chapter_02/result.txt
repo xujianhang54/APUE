@@ -1,0 +1,6 @@
+[root@localhost Chapter_02]# ./a.out /home/xujianhang54/
+no symbol for ARG_MAX
+ARG_MAX =  2097152
+MAX_CANON defined to be 255
+no symbol for _PC_MAX_CANON
+
